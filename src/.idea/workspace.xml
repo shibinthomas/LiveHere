@@ -1,7 +1,273 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d03abfb8-9879-47de-9a62-1c79d2e2fed2" name="Default" comment="" />
+    <list default="true" id="d03abfb8-9879-47de-9a62-1c79d2e2fed2" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/backbone.marionette.templates/backbone.marionette.templates.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/backbone.marionette/backbone.babysitter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/backbone.marionette/backbone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/backbone.marionette/backbone.marionette.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/backbone.marionette/backbone.marionette.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/backbone.marionette/backbone.wreqr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/backbone.marionette/core/amd/backbone.marionette.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/backbone.marionette/core/amd/backbone.marionette.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/backbone.marionette/core/backbone.marionette.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/backbone.marionette/core/backbone.marionette.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/backbone.marionette/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/backbone.marionette/json2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/backbone.marionette/underscore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/backbone.memento/backbone.memento.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/backbone.modelbinder/backbone.modelbinder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/bootstrap/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/cometd/cometd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/cometd/jquery.cometd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/dropzone/css/basic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/dropzone/css/dropzone.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/dropzone/images/spritemap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/dropzone/images/spritemap@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/dropzone/js/dropzone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/dropzone/js/dropzone.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/css/font-awesome-ie7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/css/font-awesome-ie7.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/font/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/font/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/font/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/font/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/font/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/less/bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/less/extras.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/less/font-awesome-ie7.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/scss/_bootstrap.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/scss/_extras.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/scss/font-awesome-ie7.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/font-awesome/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/adapters/standalone-framework.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/adapters/standalone-framework.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/highcharts-3d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/highcharts-3d.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/highcharts-all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/highcharts-more.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/highcharts-more.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/highcharts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/highcharts.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/modules/canvas-tools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/modules/canvas-tools.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/modules/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/modules/data.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/modules/drilldown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/modules/drilldown.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/modules/exporting.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/modules/exporting.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/modules/funnel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/modules/funnel.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/modules/heatmap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/modules/heatmap.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/modules/no-data-to-display.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/modules/no-data-to-display.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/modules/solid-gauge.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/modules/solid-gauge.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/themes/dark-blue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/themes/dark-green.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/themes/dark-unica.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/themes/gray.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/themes/grid-light.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/themes/grid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/themes/sand-signika.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/highcharts/themes/skies.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery-idleTimer/jquery.idletimeout.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery-idleTimer/jquery.idletimer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/angularjs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/basic-plus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/blueimp-file-upload.jquery.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/cors/postmessage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/cors/result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/css/demo-ie8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/css/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/css/jquery.fileupload-noscript.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/css/jquery.fileupload-ui-noscript.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/css/jquery.fileupload-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/css/jquery.fileupload.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/img/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/img/progressbar.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/jquery-ui.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/js/cors/jquery.postmessage-transport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/js/cors/jquery.xdr-transport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/js/jquery.fileupload-angular.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/js/jquery.fileupload-audio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/js/jquery.fileupload-image.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/js/jquery.fileupload-jquery-ui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/js/jquery.fileupload-process.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/js/jquery.fileupload-ui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/js/jquery.fileupload-validate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/js/jquery.fileupload-video.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/js/jquery.fileupload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/js/jquery.iframe-transport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/js/vendor/jquery.ui.widget.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.file.upload/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.hotkeys/jquery.hotkeys.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/css/flick/images/animated-overlay.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/css/flick/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/css/flick/images/ui-bg_flat_0_eeeeee_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/css/flick/images/ui-bg_flat_55_ffffff_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/css/flick/images/ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/css/flick/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/css/flick/images/ui-bg_highlight-soft_100_f6f6f6_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/css/flick/images/ui-bg_highlight-soft_25_0073ea_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/css/flick/images/ui-bg_highlight-soft_50_dddddd_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/css/flick/images/ui-icons_0073ea_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/css/flick/images/ui-icons_454545_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/css/flick/images/ui-icons_666666_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/css/flick/images/ui-icons_ff0084_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/css/flick/images/ui-icons_ffffff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/css/flick/jquery-ui--1.11.2-custom.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/css/flick/jquery-ui-1.10.3.custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/css/flick/jquery-ui-1.10.3.custom.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/css/flick/jquery-ui-1.11.2-custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/js/jquery-ui-1.10.3.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/js/jquery-ui-1.10.3.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/js/jquery-ui-1.11.2-custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.ui/js/jquery-ui-1.11.2-custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/jquery.validation/jquery.validate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/marionette.treeview/marionette.treeview.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/moment.js/moment+langs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/noty/jquery.noty.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/noty/layouts/bottom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/noty/layouts/bottomCenter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/noty/layouts/bottomLeft.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/noty/layouts/bottomRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/noty/layouts/center.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/noty/layouts/centerLeft.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/noty/layouts/centerRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/noty/layouts/inline.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/noty/layouts/top.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/noty/layouts/topCenter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/noty/layouts/topLeft.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/noty/layouts/topRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/noty/promise.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/noty/themes/default.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/be-nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/chs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/da-dk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/de-ch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/en-gb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/es-ES.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/et.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/fr-CA.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/fr-ch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/nl-nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/pt-br.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/pt-pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/ru-UA.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/languages/uk-UA.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/numeral.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/numeral.js/numeral.lakhs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/pikaday/css/pikaday.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/pikaday/pikaday.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/pikaday/plugins/pikaday.jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/release.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2-spinner.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2.jquery.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_en.js.template" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_et.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_eu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_fa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_gl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_hr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_lv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_mk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_ms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_no.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_pt-BR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_pt-PT.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_ua.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_vi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_zh-CN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2_locale_zh-TW.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/select2/select2x2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/selectize.js/css/selectize.bootstrap3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/selectize.js/css/selectize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/selectize.js/js/selectize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/timepicker/Readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/timepicker/css/bootstrap-timepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/assets/lib/timepicker/js/bootstrap-timepicker.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="src.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,7 +325,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -68,8 +333,87 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="live-here-user-view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="live-here-user-view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="live-here-user-view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -93,23 +437,23 @@
     <frame x="75" y="64" width="1281" height="704" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32931036" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24960254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
