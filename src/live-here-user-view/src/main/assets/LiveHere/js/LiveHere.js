@@ -1,0 +1,1 @@
+LiveHere = new Backbone.Marionette.Application();
